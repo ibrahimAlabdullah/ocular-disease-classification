@@ -2,7 +2,7 @@
 
  ocular disease classification web app using Django and deep learninig
  
- the ocular diseases are classificated :
+ the diseases are classificated :
  
  0.Normal
  
